@@ -1,4 +1,4 @@
-![linkedin](https://github.com/user-attachments/assets/89f6ce52-0683-42b5-b349-03c6f26c98d2)### Hello! 👋
+### Hello! 👋
 
 ### 👨🏻
   My name is Navid Garshasbi, I am from Iran, and I am currently a Research Assistant at Iran University of Science and Technology.
@@ -7,9 +7,7 @@
 ### 🎓 
   M.S. in Petroleum Reservoir Engineering @ [Iran University of Science and Technology(IUST)](https://www.topuniversities.com/universities/iran-university-science-technology), B.S. in Petroleum Engineering from [Petroleum University of Technology(PUT)](https://www.scimagoir.com/rankings.php?sector=Higher+educ.&area=1907&ranking=Overall&country=all).
 ### 🌐 [Website](https://sites.google.com/view/navidgarshasbi/page)
-### 
-[Linkedin]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navidgarshasbi)
+### [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navidgarshasbi)
 
 
 [ResearchGate](https://www.researchgate.net/profile/Navid-Garshasbi?ev=hdr_xprf)
