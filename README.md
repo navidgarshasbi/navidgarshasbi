@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-- 🏝  My name is Navid Garshasbi, I am from Iran, and I am currently a Research Assistant at Iran University of Science and Technology.
-- 💻 My research is focused on the computational description of subsurface energy systems. I combine domain-specific knowledge with tools from machine learning, applied math, and statistics, for accurate characterization and forecasting of complex dynamical systems in the subsurface
-- 🎓 M.S. in Mathematics, B.S. in Applied Math and B.S. in Petroleum Engineering, all from the University of Tulsa
+- ###👨🏻  My name is Navid Garshasbi, I am from Iran, and I am currently a Research Assistant at Iran University of Science and Technology.
+- ###👷🏻‍♂️ Petroleum Reservoir Engineer specializing in AI-driven modeling, machine learning, and advanced simulation for the petroleum industry. Experienced in Python, MATLAB, FORTRAN, and reservoir software like ECLIPSE, CMG, and Petrel. Award-winning researcher with a strong track record in applying hybrid physics-based and data-driven methods to optimize reservoir performance and flow assurance. Passionate about leveraging AI to tackle complex upstream challenges.
+- 🎓 M.S. in Petroleum Reservoir Engineering @ Iran University of Science and Technology(IUST), B.S. in Petroleum Engineering from Petroleum University of Technology(PUT).
 - 🌐 [Website](https://sites.google.com/view/navidgarshasbi/page) | [Linkedin](www.linkedin.com/in/navidgarshasbi) | [ResearchGate](https://www.researchgate.net/profile/Navid-Garshasbi?ev=hdr_xprf)
 
 | Reduced-order modeling  | Forward & Inverse modeling  | Physics-informed machine learning | Uncertainty Quantification  | Data Assimilation  | Control & Optimization |
