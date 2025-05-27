@@ -1,20 +1,25 @@
-## Hello! 👋
+# Navid Garshasbi
 
-## 👨🏻 Personal Information
-  My name is Navid Garshasbi, I am from Iran, and I am currently a Research Assistant at [Iran University of Science and Technology(IUST)](https://www.topuniversities.com/universities/iran-university-science-technology).
+Petroleum Reservoir Engineer | AI-driven Modeling | Research Assistant at [IUST](https://www.topuniversities.com/universities/iran-university-science-technology)
+
+<!-- [![Website](https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/view/navidgarshasbi/page)Add more repos as you wish -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navidgarshasbi)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Navid-Garshasbi?ev=hdr_xprf)
+
+---
+
+## 👨🏻 About Me
+
+I am from Iran and currently a Research Assistant at [IUST](https://www.topuniversities.com/universities/iran-university-science-technology).
+
 ## 👨🏻‍🔬 Objective
-  Petroleum Reservoir Engineer specializing in AI-driven modeling, machine learning, and advanced simulation for the petroleum industry. Experienced in Python, MATLAB, FORTRAN, and reservoir software like ECLIPSE, CMG, and Petrel. Award-winning researcher with a strong track record in applying hybrid physics-based and data-driven methods to optimize reservoir performance and flow assurance. Passionate about leveraging AI to tackle complex upstream challenges.
+
+Petroleum Reservoir Engineer specializing in AI-driven modeling, machine learning, and advanced simulation for the petroleum industry. Experienced with Python, MATLAB, FORTRAN, and industry-standard reservoir simulation software (ECLIPSE, CMG, Petrel). Award-winning researcher with a proven track record of applying hybrid physics-based and data-driven methods to optimize reservoir performance and flow assurance. Passionate about leveraging AI to solve complex upstream challenges.
+
 ## 🎓 Education 
-- M.Sc. in Petroleum Reservoir Engineering @ [Iran University of Science and Technology(IUST)](https://www.topuniversities.com/universities/iran-university-science-technology)
 
-- B.Sc. in Petroleum Engineering @ [Petroleum University of Technology(PUT)](https://www.scimagoir.com/rankings.php?sector=Higher+educ.&area=1907&ranking=Overall&country=all).
-
-
-[![Website](https://img.shields.io/badge/Website-YourSite-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/view/navidgarshasbi/page)
-
-[![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png) LinkedIn](https://www.linkedin.com/in/navidgarshasbi)
-
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white) ResearchGate](https://www.researchgate.net/profile/Navid-Garshasbi?ev=hdr_xprf)
+- 📚 **M.Sc.** in Petroleum Reservoir Engineering @ [IUST](https://www.topuniversities.com/universities/iran-university-science-technology)
+- 📚 **B.Sc.** in Petroleum Engineering @ [PUT](https://www.scimagoir.com/rankings.php?sector=Higher+educ.&area=1907&ranking=Overall&country=all)
 
 ## 🔬 Latest Research Interests
 
@@ -26,8 +31,5 @@
 
 ## ✨ Latest Repositories
 
-[![Latest Repositories](https://github-readme-stats.vercel.app/api/pin/?username=navidgarshasbi&repo=pore-network-models)](https://github.com/navidgarshasbi/pore-network-models)
-<!--
-[![Latest Repositories](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2)](https://github.com/navidgarshasbi/repo2)
-
-[![Latest Repositories](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo3)](https://github.com/navidgarshasbi/repo3)
+[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=navidgarshasbi&repo=pore-network-models)](https://github.com/navidgarshasbi/pore-network-models)
+<!-- Add more repos as you wish -->
