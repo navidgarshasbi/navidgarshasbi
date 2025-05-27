@@ -8,7 +8,7 @@ Petroleum Reservoir Engineer | AI-driven Modeling | Research Assistant at [IUST]
 
 ---
 
-## 👨🏻 About Me
+## 👨🏻‍💼 About Me
 
 I am from Iran and currently a Research Assistant at [IUST](https://www.topuniversities.com/universities/iran-university-science-technology).
 
