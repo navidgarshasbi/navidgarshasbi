@@ -8,7 +8,7 @@
   M.S. in Petroleum Reservoir Engineering @ [Iran University of Science and Technology(IUST)](https://www.topuniversities.com/universities/iran-university-science-technology), B.S. in Petroleum Engineering from [Petroleum University of Technology(PUT)](https://www.scimagoir.com/rankings.php?sector=Higher+educ.&area=1907&ranking=Overall&country=all).
 ### 🌐
 [Website](https://sites.google.com/view/navidgarshasbi/page)
-![linkedin-original 256x256](https://github.com/user-attachments/assets/3c283939-74ac-42aa-8475-2e8dd285a765)[Linkedin](https://www.linkedin.com/in/navidgarshasbi)
+![linkedin-original 32x32](https://github.com/user-attachments/assets/3c283939-74ac-42aa-8475-2e8dd285a765)[Linkedin](https://www.linkedin.com/in/navidgarshasbi)
 
 [ResearchGate](https://www.researchgate.net/profile/Navid-Garshasbi?ev=hdr_xprf)
 
