@@ -24,9 +24,13 @@ Petroleum Reservoir Engineer specializing in AI-driven modeling, machine learnin
 ## 🔬 Latest Research Interests
 
 ![Lattice Boltzmann Modeling](https://img.shields.io/badge/Lattice%20Boltzmann%20Modeling-blue?style=for-the-badge)
+
 ![Machine Learning & Deep Learning](https://img.shields.io/badge/Machine%20Learning%20%26%20Deep%20Learning-green?style=for-the-badge)
+
 ![PINNs](https://img.shields.io/badge/PINNs-orange?style=for-the-badge)
+
 ![Reservoir Simulation](https://img.shields.io/badge/Reservoir%20Simulation-purple?style=for-the-badge)
+
 ![PVT](https://img.shields.io/badge/PVT-red?style=for-the-badge)
 
 ## ✨ Latest Repositories
